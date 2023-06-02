@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\dilracing\Desktop\TestingDB</_PublishTargetUrl>
+    <History>True|2022-05-30T10:32:46.6817552Z;True|2022-05-30T03:25:32.1278237-07:00;True|2022-05-30T02:21:36.4500809-07:00;True|2022-05-29T21:33:11.8373429-07:00;True|2022-05-27T01:10:08.8432681-07:00;</History>
+  </PropertyGroup>
+</Project>
